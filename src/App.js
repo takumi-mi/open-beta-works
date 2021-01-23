@@ -1,3 +1,5 @@
+import React from "react";
+
 import "./styles.css";
 import Animation from "./Animation.js";
 

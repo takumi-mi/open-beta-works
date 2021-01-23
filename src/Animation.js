@@ -1,4 +1,5 @@
 import React from "react";
+
 import GSAP from "react-gsap-enhancer";
 import { TimelineMax } from "gsap";
 import ImgShadow from "./_assets/obj_shadow.png";
